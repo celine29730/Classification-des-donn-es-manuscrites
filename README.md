@@ -8,4 +8,4 @@ Sur la partie droite, on constate les prédictions du modèle ainsi que le pourc
 ![images 1](https://github.com/celine29730/Classification-des-donn-es-manuscrites/blob/main/Annotation%202021-01-06%20182905.png)
 
 Ici nous avons déssiné le chiffre 7 et le modèle nous prédit bien le 7 à 100%.
-Le bouton **Recognize** permet d'afficher le résultat du modèle et le bouton **Clear** permet d'effacer le chiffre manuscrit en entrée. 
+Le bouton **Recognize** permet d'afficher les prédictions du modèle et le bouton **Clear** permet d'effacer le chiffre manuscrit en entrée. 
